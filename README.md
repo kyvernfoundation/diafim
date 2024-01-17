@@ -8,7 +8,7 @@ If you would like us to carry out your advertising with you, or if you would lik
 ## Conferences
 Some of our conferences are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
-- If you'd like to see all the latest news from the Kyvern Foundation.
+- If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you are only interested in our advertising agency Diafim.
 - Or to see our other news.
 ## Contact
