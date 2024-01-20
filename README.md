@@ -9,7 +9,7 @@ If you would like us to carry out your advertising with you, or if you would lik
 Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
-- If you are only interested in our advertising agency Diafim.
+- If you're only interested in [news from our Diafim advertising agency](https://github.com/kyvernfoundation/diafim/tree/main/news).
 - Or to see our other news.
 ## Contact
 If you have any questions or requests: contact@kyvern.org.
