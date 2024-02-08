@@ -6,8 +6,6 @@ Diafim comes from the Greek word Διαφήμιση (pronounced diafimisi) meani
 If you would like advice on your advertising, please contact us at diafim@kyvern.org.
 ## Paid advertising
 If you would like us to carry out your advertising with you, or if you would like access to our distribution media, please contact us at diafim@kyvern.org.
-## Conferences
-Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you're only interested in [news from our Diafim advertising agency](https://github.com/kyvernfoundation/diafim/tree/main/news).
